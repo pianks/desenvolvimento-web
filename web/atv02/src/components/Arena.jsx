@@ -11,9 +11,7 @@ export default function Arena(props){
             {props.arena}
         </h2>
         <div style = {{display: 'flex', justifyContent: 'space-between'}}>
-            <Hero name = {HERO_NAME} img = {HERO_IMAGE}/>
-            <img src={VS}/> 
-            <Enemy name = {ENEMY_NAME} img = {ENEMY_IMAGE}/>  
+            {props.children}
         </div>
         </>
     )
