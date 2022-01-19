@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Jaime Neto",
+      "curso": "S.I.",
+      "ira": 8
+    },
+    {
+      "id": 3,
+      "nome": "VINA É O NOVO REI",
+      "curso": "CEARA",
+      "ira": 11
+    },
+    {
+      "nome": "Neymar",
+      "curso": "Vida",
+      "ira": "7",
+      "id": 4
+    }
+  ]
+}
